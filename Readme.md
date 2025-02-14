@@ -1,5 +1,7 @@
 # [Проект «Gllacy shop»](https://denispan.github.io/gllacy-shop/index.html)
 
+[denispan.github.io/gllacy-shop](https://denispan.github.io/gllacy-shop/)
+
 Магазин мороженого «Gllacy shop» – широкий ассортимент и вкусные цены! </br>
 <strong>Проект БЕЗ адаптива и БЕЗ динамики. Pixel Perfect верстка по макету figma</strong>
 
